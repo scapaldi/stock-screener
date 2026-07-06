@@ -11,8 +11,8 @@ st.title("Financial Metrics Dashboard")
 def load_data():
     """Loads, cleans, and standardizes the CSV data and headers."""
     try:
-        # Assumes data.csv is in the same GitHub repository folder
-        df = pd.read_csv("data.csv")
+        # Assumes Stocks.csv is in the same GitHub repository folder
+        df = pd.read_csv("Stocks.csv")
         
         # 1. Clean headers: strip spaces and convert everything to lowercase
         df.columns = df.columns.str.strip().str.lower()
@@ -38,7 +38,7 @@ def load_data():
         
         return df
     except FileNotFoundError:
-        st.error("Error: 'data.csv' not found. Please upload it to your GitHub repository.")
+        st.error("Error: 'Stocks.csv' not found. Please upload it to your GitHub repository.")
         return None
 
 # Load dataset
