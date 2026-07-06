@@ -46,7 +46,8 @@ df = load_data()
 
 if df is not None:
     # --- Top Layout with Right-Aligned Dropdown ---
-    col1, col2 = st.columns()
+    # col1, col2 = st.columns()
+    col1, col2 = st.columns([4, 1])
     
     with col1:
         unique_tickers = sorted(df['ticker'].unique())
