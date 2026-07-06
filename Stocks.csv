@@ -1,0 +1,213 @@
+Ticker,Company,Metric,2023,2024,2025
+AAPL,Apple Inc.,Total Revenue ($B),383.3,391,396.1
+AAPL,Apple Inc.,Gross Profit ($B),169.1,180.4,185
+AAPL,Apple Inc.,Net Income ($B),97,93.74,112.01
+AAPL,Apple Inc.,EPS ($),6.13,6.08,7.46
+MSFT,Microsoft Corp.,Total Revenue ($B),211.9,245.1,281.72
+MSFT,Microsoft Corp.,Gross Profit ($B),146.1,171,193.89
+MSFT,Microsoft Corp.,Net Income ($B),72.36,88.14,101.83
+MSFT,Microsoft Corp.,EPS ($),9.68,11.8,13.7
+NVDA,NVIDIA Corp.,Total Revenue ($B),27,60.92,130.5
+NVDA,NVIDIA Corp.,Gross Profit ($B),15.4,44.3,99.1
+NVDA,NVIDIA Corp.,Net Income ($B),4.37,29.76,72.88
+NVDA,NVIDIA Corp.,EPS ($),0.18,1.19,2.94
+AMZN,Amazon.com Inc.,Total Revenue ($B),574.8,637.96,675.2
+AMZN,Amazon.com Inc.,Gross Profit ($B),270,311.67,322
+AMZN,Amazon.com Inc.,Net Income ($B),30.43,59.25,77.67
+AMZN,Amazon.com Inc.,EPS ($),2.9,5.66,4.75
+GOOGL,Alphabet Inc.,Total Revenue ($B),307.4,342.3,381.1
+GOOGL,Alphabet Inc.,Gross Profit ($B),174.5,196.2,219
+GOOGL,Alphabet Inc.,Net Income ($B),73.8,86.4,98.5
+GOOGL,Alphabet Inc.,EPS ($),5.8,6.9,7.95
+META,Meta Platforms Inc.,Total Revenue ($B),134.9,154.2,176.4
+META,Meta Platforms Inc.,Gross Profit ($B),109.1,125,143.2
+META,Meta Platforms Inc.,Net Income ($B),39.1,48.2,56.4
+META,Meta Platforms Inc.,EPS ($),14.87,18.9,22.4
+TSLA,Tesla Inc.,Total Revenue ($B),96.8,102.3,94.83
+TSLA,Tesla Inc.,Gross Profit ($B),17.7,18.5,17.09
+TSLA,Tesla Inc.,Net Income ($B),15,13.4,3.79
+TSLA,Tesla Inc.,EPS ($),4.3,3.85,1.18
+AVGO,Broadcom Inc.,Total Revenue ($B),35.8,43.3,51.4
+AVGO,Broadcom Inc.,Gross Profit ($B),26.7,31.8,38
+AVGO,Broadcom Inc.,Net Income ($B),14.08,11.6,15.3
+AVGO,Broadcom Inc.,EPS ($),32.98,26.5,34.2
+COST,Costco Wholesale,Total Revenue ($B),242.3,254.5,268
+COST,Costco Wholesale,Gross Profit ($B),29.3,31.1,33.2
+COST,Costco Wholesale,Net Income ($B),6.29,7.12,7.9
+COST,Costco Wholesale,EPS ($),14.16,16.05,17.85
+NFLX,Netflix Inc.,Total Revenue ($B),33.7,39,42.1
+NFLX,Netflix Inc.,Gross Profit ($B),13.9,17.96,18.4
+NFLX,Netflix Inc.,Net Income ($B),5.41,8.71,8.1
+NFLX,Netflix Inc.,EPS ($),12.11,2.03,18.6
+AMD,Advanced Micro,Total Revenue ($B),22.7,25.1,29.4
+AMD,Advanced Micro,Gross Profit ($B),10.4,11.8,14.1
+AMD,Advanced Micro,Net Income ($B),0.85,1.43,2.9
+AMD,Advanced Micro,EPS ($),0.53,0.88,1.8
+INTC,Intel Corporation,Total Revenue ($B),54.2,52.8,52.85
+INTC,Intel Corporation,Gross Profit ($B),21.7,20.6,19.32
+INTC,Intel Corporation,Net Income ($B),1.68,-0.45,-0.27
+INTC,Intel Corporation,EPS ($),0.4,-0.11,-0.06
+QCOM,Qualcomm Inc.,Total Revenue ($B),35.8,38.4,41.2
+QCOM,Qualcomm Inc.,Gross Profit ($B),20,21.6,23.4
+QCOM,Qualcomm Inc.,Net Income ($B),7.23,9.21,10.4
+QCOM,Qualcomm Inc.,EPS ($),6.42,8.25,9.35
+PEP,PepsiCo Inc.,Total Revenue ($B),91.5,93.4,96.1
+PEP,PepsiCo Inc.,Gross Profit ($B),49.5,50.8,52.4
+PEP,PepsiCo Inc.,Net Income ($B),9.07,9.35,9.9
+PEP,PepsiCo Inc.,EPS ($),6.56,6.82,7.25
+SBUX,Starbucks Corp.,Total Revenue ($B),36,37.2,39.5
+SBUX,Starbucks Corp.,Gross Profit ($B),9.8,10.1,11
+SBUX,Starbucks Corp.,Net Income ($B),4.12,4.25,4.7
+SBUX,Starbucks Corp.,EPS ($),3.58,3.72,4.15
+TXN,Texas Instruments,Total Revenue ($B),17.5,16.2,17.4
+TXN,Texas Instruments,Gross Profit ($B),11,9.6,10.6
+TXN,Texas Instruments,Net Income ($B),6.51,5.2,5.85
+TXN,Texas Instruments,EPS ($),7.07,5.7,6.4
+AMGN,Amgen Inc.,Total Revenue ($B),28.2,31.4,33.9
+AMGN,Amgen Inc.,Gross Profit ($B),21.2,23.1,24.8
+AMGN,Amgen Inc.,Net Income ($B),6.72,6.2,7.1
+AMGN,Amgen Inc.,EPS ($),12.49,11.52,13.15
+ISRG,Intuitive Surgical,Total Revenue ($B),7.12,8.15,9.3
+ISRG,Intuitive Surgical,Gross Profit ($B),4.73,5.42,6.2
+ISRG,Intuitive Surgical,Net Income ($B),1.8,2.15,2.6
+ISRG,Intuitive Surgical,EPS ($),5.01,5.95,7.15
+MDLZ,Mondelez Int.,Total Revenue ($B),36,37.5,39.2
+MDLZ,Mondelez Int.,Gross Profit ($B),13.8,14.5,15.2
+MDLZ,Mondelez Int.,Net Income ($B),4.96,4.2,4.8
+MDLZ,Mondelez Int.,EPS ($),3.62,3.1,3.55
+PDD,PDD Holdings Inc.,Total Revenue ($B),34.9,48.2,61.5
+PDD,PDD Holdings Inc.,Gross Profit ($B),21.9,29.5,37.4
+PDD,PDD Holdings Inc.,Net Income ($B),8.4,12.3,16.1
+PDD,PDD Holdings Inc.,EPS ($),5.85,8.4,10.95
+ADBE,Adobe Inc.,Total Revenue ($B),19.41,21.3,23.1
+ADBE,Adobe Inc.,Gross Profit ($B),17.05,18.7,20.3
+ADBE,Adobe Inc.,Net Income ($B),5.43,6.1,6.9
+ADBE,Adobe Inc.,EPS ($),11.82,13.5,15.4
+ADI,Analog Devices,Total Revenue ($B),12.31,11.5,13.2
+ADI,Analog Devices,Gross Profit ($B),7.85,7.2,8.4
+ADI,Analog Devices,Net Income ($B),3.31,2.8,3.6
+ADI,Analog Devices,EPS ($),6.61,5.7,7.3
+ADP,Automatic Data,Total Revenue ($B),18.01,19.2,20.8
+ADP,Automatic Data,Gross Profit ($B),7.4,8.1,8.9
+ADP,Automatic Data,Net Income ($B),3.41,3.8,4.2
+ADP,Automatic Data,EPS ($),8.21,9.15,10.3
+ADSK,Autodesk Inc.,Total Revenue ($B),5.5,6.1,6.8
+ADSK,Autodesk Inc.,Gross Profit ($B),4.75,5.3,5.9
+ADSK,Autodesk Inc.,Net Income ($B),0.91,1.1,1.35
+ADSK,Autodesk Inc.,EPS ($),4.25,5.15,6.4
+AEP,American Electric,Total Revenue ($B),19,19.7,20.5
+AEP,American Electric,Gross Profit ($B),7.9,8.3,8.7
+AEP,American Electric,Net Income ($B),2.21,2.4,2.65
+AEP,American Electric,EPS ($),4.31,4.65,5.1
+ALNY,Alnylam Pharma.,Total Revenue ($B),1.24,1.55,1.9
+ALNY,Alnylam Pharma.,Gross Profit ($B),1.01,1.3,1.6
+ALNY,Alnylam Pharma.,Net Income ($B),-0.34,-0.12,0.15
+ALNY,Alnylam Pharma.,EPS ($),-2.75,-0.95,1.2
+AMAT,Applied Materials,Total Revenue ($B),26.52,27.1,28.4
+AMAT,Applied Materials,Gross Profit ($B),12.38,12.8,13.5
+AMAT,Applied Materials,Net Income ($B),6.86,7.2,7.8
+AMAT,Applied Materials,EPS ($),8.16,8.65,9.4
+APP,AppLovin Corp.,Total Revenue ($B),3.28,4.1,5.2
+APP,AppLovin Corp.,Gross Profit ($B),2.21,2.9,3.8
+APP,AppLovin Corp.,Net Income ($B),0.36,0.75,1.2
+APP,AppLovin Corp.,EPS ($),0.98,2.1,3.45
+ARM,Arm Holdings,Total Revenue ($B),2.68,3.2,4.1
+ARM,Arm Holdings,Gross Profit ($B),2.55,3.05,3.9
+ARM,Arm Holdings,Net Income ($B),0.52,0.78,1.15
+ARM,Arm Holdings,EPS ($),0.51,0.76,1.12
+ASML,ASML Holding,Total Revenue ($B),27.6,29.8,34.5
+ASML,ASML Holding,Gross Profit ($B),14.2,15.4,18.1
+ASML,ASML Holding,Net Income ($B),7.84,8.4,10.2
+ASML,ASML Holding,EPS ($),19.95,21.5,26.3
+AXON,Axon Enterprise,Total Revenue ($B),1.56,2.1,2.8
+AXON,Axon Enterprise,Gross Profit ($B),0.96,1.3,1.75
+AXON,Axon Enterprise,Net Income ($B),0.17,0.28,0.42
+AXON,Axon Enterprise,EPS ($),2.31,3.75,5.55
+BKNG,Booking Holdings,Total Revenue ($B),21.36,23.5,25.8
+BKNG,Booking Holdings,Gross Profit ($B),18.2,20.1,22.2
+BKNG,Booking Holdings,Net Income ($B),4.29,4.9,5.6
+BKNG,Booking Holdings,EPS ($),118.2,138.5,161.4
+BKR,Baker Hughes Co.,Total Revenue ($B),25.5,27.2,29.1
+BKR,Baker Hughes Co.,Gross Profit ($B),5.1,5.6,6.1
+BKR,Baker Hughes Co.,Net Income ($B),1.94,2.25,2.6
+BKR,Baker Hughes Co.,EPS ($),1.91,2.22,2.58
+CCEP,Coca-Cola Europ.,Total Revenue ($B),18.3,19.5,20.8
+CCEP,Coca-Cola Europ.,Gross Profit ($B),6.5,7,7.5
+CCEP,Coca-Cola Europ.,Net Income ($B),1.71,1.88,2.05
+CCEP,Coca-Cola Europ.,EPS ($),3.71,4.1,4.5
+CDNS,Cadence Design,Total Revenue ($B),4.09,4.6,5.25
+CDNS,Cadence Design,Gross Profit ($B),3.64,4.1,4.7
+CDNS,Cadence Design,Net Income ($B),1.04,1.22,1.45
+CDNS,Cadence Design,EPS ($),3.82,4.5,5.35
+CEG,Constellation En.,Total Revenue ($B),24.9,26.2,27.8
+CEG,Constellation En.,Gross Profit ($B),8.2,8.9,9.6
+CEG,Constellation En.,Net Income ($B),1.62,2.1,2.5
+CEG,Constellation En.,EPS ($),5.05,6.5,7.8
+CMCSA,Comcast Corp.,Total Revenue ($B),121.57,123.4,126.2
+CMCSA,Comcast Corp.,Gross Profit ($B),84.2,85.8,87.9
+CMCSA,Comcast Corp.,Net Income ($B),15.38,16.1,17.2
+CMCSA,Comcast Corp.,EPS ($),3.71,3.95,4.3
+CPRT,Copart Inc.,Total Revenue ($B),3.87,4.25,4.7
+CPRT,Copart Inc.,Gross Profit ($B),1.75,1.95,2.15
+CPRT,Copart Inc.,Net Income ($B),1.24,1.38,1.55
+CPRT,Copart Inc.,EPS ($),1.28,1.43,1.61
+CRWD,CrowdStrike Hldgs,Total Revenue ($B),3.06,3.95,5.1
+CRWD,CrowdStrike Hldgs,Gross Profit ($B),2.31,3,3.9
+CRWD,CrowdStrike Hldgs,Net Income ($B),0.09,0.32,0.65
+CRWD,CrowdStrike Hldgs,EPS ($),0.37,1.32,2.65
+CSCO,Cisco Systems,Total Revenue ($B),57,53.8,55.5
+CSCO,Cisco Systems,Gross Profit ($B),36.5,34.8,36.1
+CSCO,Cisco Systems,Net Income ($B),12.6,10.3,11.4
+CSCO,Cisco Systems,EPS ($),3.07,2.54,2.82
+CSGP,CoStar Group Inc.,Total Revenue ($B),2.46,2.75,3.1
+CSGP,CoStar Group Inc.,Gross Profit ($B),1.98,2.2,2.5
+CSGP,CoStar Group Inc.,Net Income ($B),0.37,0.41,0.48
+CSGP,CoStar Group Inc.,EPS ($),0.91,1.01,1.18
+CSX,CSX Corporation,Total Revenue ($B),14.66,15.1,15.7
+CSX,CSX Corporation,Gross Profit ($B),5.4,5.65,5.9
+CSX,CSX Corporation,Net Income ($B),3.71,3.9,4.15
+CSX,CSX Corporation,EPS ($),1.85,1.98,2.12
+CTAS,Cintas Corp.,Total Revenue ($B),8.81,9.6,10.4
+CTAS,Cintas Corp.,Gross Profit ($B),4.15,4.55,4.95
+CTAS,Cintas Corp.,Net Income ($B),1.34,1.52,1.71
+CTAS,Cintas Corp.,EPS ($),13.15,15.02,17.1
+DASH,DoorDash Inc.,Total Revenue ($B),8.63,10.5,12.8
+DASH,DoorDash Inc.,Gross Profit ($B),3.85,4.8,5.95
+DASH,DoorDash Inc.,Net Income ($B),-0.56,-0.18,0.22
+DASH,DoorDash Inc.,EPS ($),-1.42,-0.45,0.55
+DDOG,Datadog Inc.,Total Revenue ($B),2.13,2.7,3.4
+DDOG,Datadog Inc.,Gross Profit ($B),1.71,2.18,2.75
+DDOG,Datadog Inc.,Net Income ($B),0.05,0.18,0.38
+DDOG,Datadog Inc.,EPS ($),0.15,0.52,1.1
+DXCM,DexCom Inc.,Total Revenue ($B),3.62,4.3,5.1
+DXCM,DexCom Inc.,Gross Profit ($B),2.31,2.78,3.32
+DXCM,DexCom Inc.,Net Income ($B),0.54,0.68,0.85
+DXCM,DexCom Inc.,EPS ($),1.35,1.72,2.15
+EA,Electronic Arts,Total Revenue ($B),7.43,7.65,8.1
+EA,Electronic Arts,Gross Profit ($B),5.65,5.85,6.25
+EA,Electronic Arts,Net Income ($B),1.02,1.15,1.3
+EA,Electronic Arts,EPS ($),3.68,4.2,4.82
+EXC,Exelon Corp.,Total Revenue ($B),19.06,20.2,21.4
+EXC,Exelon Corp.,Gross Profit ($B),6.5,6.95,7.4
+EXC,Exelon Corp.,Net Income ($B),2.15,2.3,2.55
+EXC,Exelon Corp.,EPS ($),2.15,2.3,2.54
+FANG,Diamondback En.,Total Revenue ($B),8.32,9.1,10.2
+FANG,Diamondback En.,Gross Profit ($B),6.1,6.75,7.6
+FANG,Diamondback En.,Net Income ($B),3.12,3.45,3.95
+FANG,Diamondback En.,EPS ($),17.4,19.25,22.1
+FAST,Fastenal Co.,Total Revenue ($B),7.35,7.7,8.2
+FAST,Fastenal Co.,Gross Profit ($B),3.35,3.52,3.75
+FAST,Fastenal Co.,Net Income ($B),1.15,1.22,1.31
+FAST,Fastenal Co.,EPS ($),2.02,2.14,2.3
+FTNT,Fortinet Inc.,Total Revenue ($B),5.3,6.2,7.25
+FTNT,Fortinet Inc.,Gross Profit ($B),4.02,4.75,5.6
+FTNT,Fortinet Inc.,Net Income ($B),1.14,1.38,1.65
+FTNT,Fortinet Inc.,EPS ($),1.46,1.78,2.15
+GILD,Gilead Sciences,Total Revenue ($B),27.11,27.8,28.5
+GILD,Gilead Sciences,Gross Profit ($B),20.5,21.1,21.7
+GILD,Gilead Sciences,Net Income ($B),5.61,5.9,6.3
+GILD,Gilead Sciences,EPS ($),4.5,4.75,5.1
+HON,Honeywell Intl,Total Revenue ($B),36.66,38.2,40.1
+HON,Honeywell Intl,Gross Profit ($B),13.6,14.2,15.1
+HON,Honeywell Intl,Net Income ($B),5.66,6.1,6.65
+HON,Honeywell Intl,EPS ($),8.53,9.25,10.15
