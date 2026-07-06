@@ -1,6 +1,6 @@
-import streamlit as pd
+# import streamlit as pd
+import streamlit as st
 import pandas as pd
-# import streamlit as st
 
 # Set page layout to wide
 st.set_page_config(layout="wide")
