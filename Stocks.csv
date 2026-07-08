@@ -211,9 +211,9 @@ HON,Honeywell Intl,Total Revenue ($B),36.66,38.2,40.1
 HON,Honeywell Intl,Gross Profit ($B),13.6,14.2,15.1
 HON,Honeywell Intl,Net Income ($B),5.66,6.1,6.65
 HON,Honeywell Intl,EPS ($),8.53,9.25,10.15
-PLTR,Palantir Technologies,Total Revenue ($B),2.23,2.87,4.48
-PLTR,Palantir Technologies,Gross Profit ($B),1.79,2.30,3.69
-PLTR,Palantir Technologies,Net Income ($B),0.21,0.46,1.63
-TSM,Taiwan Semiconductor,Total Revenue ($B),69.30,75.40,120.95
-TSM,Taiwan Semiconductor,Gross Profit ($B),37.70,40.10,72.45
-TSM,Taiwan Semiconductor,Net Income ($B),27.82,35.33,54.55
+PLTR,Palantir Technologies,Total Revenue ($B),2.23,2.87,4.48,N/A
+PLTR,Palantir Technologies,Gross Profit ($B),1.79,2.30,3.69,N/A
+PLTR,Palantir Technologies,Net Income ($B),0.21,0.46,1.63,N/A
+TSM,Taiwan Semiconductor,Total Revenue ($B),69.30,75.40,120.95,N/A
+TSM,Taiwan Semiconductor,Gross Profit ($B),37.70,40.10,72.45,N/A
+TSM,Taiwan Semiconductor,Net Income ($B),27.82,35.33,54.55,N/A
